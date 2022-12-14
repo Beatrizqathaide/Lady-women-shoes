@@ -1,0 +1,17 @@
+.carousel-caption h1 {
+    font-size: 80px;
+    color: pink;
+    text-shadow: 4px 4px 4px #000;
+}
+
+.carousel-caption p {
+    font-size: 40px;
+    color: white;
+    text-shadow: 4px 4px 4px #000;
+}
+
+h1 {
+    font-size: 300px;
+    color: blueviolet;
+    text-shadow: 1px 1px 1px #000;
+}
